@@ -1,4 +1,5 @@
 # mysecond-demo
 mysecond-demo
 <br>
-author mariyam farooqui
+author mariyam (mydemo)
+
